@@ -67,6 +67,7 @@ return [
             'protocol' => 'http',
             'domains' => [
                 'default' => env('QINIU_HOST',''), //你的七牛域名
+                'http' => env('QINIU_HOST',''), //你的七牛域名
                 'https' => env('QINIU_HOST',''), //你的HTTPS域名
                 'custom' => 'img.cong5.net', //你的自定义域名
             ],
