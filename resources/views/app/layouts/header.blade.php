@@ -33,11 +33,11 @@
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-    <link rel="stylesheet" href="http://at.alicdn.com/t/font_v9zg482ohp1ll3di.css">
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_v9zg482ohp1ll3di.css">
 
     <link rel="stylesheet" href="/templates/main/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 
-    <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700,900' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Roboto:400,100,300,700,900' rel='stylesheet' type='text/css'>
 
     <!-- Animate.css -->
     <link rel="stylesheet" href="/templates/main/css/animate.css">
