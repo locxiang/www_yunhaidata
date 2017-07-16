@@ -116,7 +116,7 @@
             <div class="fh5co-overlay" style="background: rgba(51, 122, 183, 0.5);"></div>
             <div class="fh5co-cover" data-stellar-background-ratio="0.5"
                  style="background-image: url('/templates/main/images/home-image-1.jpg');">
-                <video src="//oqp7wrn6m.bkt.clouddn.com/banner.mp4" autoplay="" loop="" preload="auto"
+                <video src="//img0.yunhaidata.com/banner.mp4" autoplay="" loop="" preload="auto"
                        style="width:100%; height:100%; object-fit:fill;"></video>
                 <div class="desc animate-box">
                     <div class="container">
