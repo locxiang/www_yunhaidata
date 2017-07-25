@@ -287,7 +287,7 @@
 
                             <li class="col-md-14 col-md-3 animate-box">
                                 <div>
-                                    <a href="solution_show.aspx-id=70.html">
+                                    <a href="/solutions?show=0">
                                         <img src="upload/201705/11/201705110939452546.jpg"/>
                                         <!--width:343px height:182px-->
                                         <i class="iconfont icon-jinru"><p
@@ -300,7 +300,7 @@
 
                             <li class="col-md-14 col-md-3 animate-box">
                                 <div>
-                                    <a href="solution_show.aspx-id=69.html">
+                                    <a href="/solutions?show=1">
                                         <img src="upload/201705/11/201705110939547234.jpg"/>
                                         <!--width:343px height:182px-->
                                         <i class="iconfont icon-jinru"><p
@@ -313,7 +313,7 @@
 
                             <li class="col-md-14 col-md-3 animate-box">
                                 <div>
-                                    <a href="solution_show.aspx-id=68.html">
+                                    <a href="/solutions?show=2">
                                         <img src="upload/201705/11/201705110940062078.jpg"/>
                                         <!--width:343px height:182px-->
                                         <i class="iconfont icon-jinru"><p
@@ -321,12 +321,12 @@
                                                 继续了解</p></i>
                                     </a>
                                 </div>
-                                <h1>地税大数据解决方案</h1>
+                                <h1>税务大数据解决方案</h1>
                             </li>
 
                             <li class="col-md-14 col-md-3 animate-box">
                                 <div>
-                                    <a href="solution_show.aspx-id=67.html">
+                                    <a href="/solutions?show=3">
                                         <img src="upload/201705/11/201705110940170359.jpg"/>
                                         <!--width:343px height:182px-->
                                         <i class="iconfont icon-jinru"><p
@@ -339,7 +339,7 @@
 
                             <li class="col-md-14 col-md-3 animate-box">
                                 <div>
-                                    <a href="solution_show.aspx-id=66.html">
+                                    <a href="/solutions?show=4">
                                         <img src="upload/201705/11/201705110940259265.jpg"/>
                                         <!--width:343px height:182px-->
                                         <i class="iconfont icon-jinru"><p
@@ -352,7 +352,7 @@
 
                             <li class="col-md-14 col-md-3 animate-box">
                                 <div>
-                                    <a href="solution_show.aspx-id=65.html">
+                                    <a href="/solutions?show=5">
                                         <img src="upload/201705/11/201705110940365828.jpg"/>
                                         <!--width:343px height:182px-->
                                         <i class="iconfont icon-jinru"><p
@@ -360,12 +360,12 @@
                                                 继续了解</p></i>
                                     </a>
                                 </div>
-                                <h1>招商大数据解决方案</h1>
+                                <h1>环保大数据解决方案</h1>
                             </li>
 
                             <li class="col-md-14 col-md-3 animate-box">
                                 <div>
-                                    <a href="solution_show.aspx-id=64.html">
+                                    <a href="/solutions?show=6">
                                         <img src="upload/201705/11/201705110940466296.jpg"/>
                                         <!--width:343px height:182px-->
                                         <i class="iconfont icon-jinru"><p
@@ -378,7 +378,7 @@
 
                             <li class="col-md-14 col-md-3 animate-box">
                                 <div>
-                                    <a href="solution_show.aspx-id=63.html">
+                                    <a href="/solutions?show=7">
                                         <img src="upload/201705/11/201705110940553484.jpg"/>
                                         <!--width:343px height:182px-->
                                         <i class="iconfont icon-jinru"><p
@@ -386,12 +386,12 @@
                                                 继续了解</p></i>
                                     </a>
                                 </div>
-                                <h1>科技大数据解决方案</h1>
+                                <h1>人社大数据解决方案</h1>
                             </li>
 
                             <li class="col-md-14 col-md-3 animate-box">
                                 <div>
-                                    <a href="solution_show.aspx-id=62.html">
+                                    <a href="/solutions?show=8">
                                         <img src="upload/201705/11/201705110928082546.jpg"/>
                                         <!--width:343px height:182px-->
                                         <i class="iconfont icon-jinru"><p
@@ -399,13 +399,13 @@
                                                 继续了解</p></i>
                                     </a>
                                 </div>
-                                <h1>宣传大数据解决方案</h1>
+                                <h1>司法大数据解决方案</h1>
                             </li>
 
                         </ul>
                     </div>
                     <div class="col-md-13 col-sm-6 col-mx-2" style="height: 100%;">
-                        <a href="/templates/main/trainer.html">浏览更多>></a>
+                        <a href="/solutions">浏览更多>></a>
                     </div>
                 </div>
             </div>
